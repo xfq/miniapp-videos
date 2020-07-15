@@ -13,3 +13,7 @@ A curated list of videos from the [MiniApp](https://github.com/w3c/miniapp) ecos
 * Official intro video
   * [bilibili](https://www.bilibili.com/video/av36952800/)
   * [Youtube (with English subtitles)](https://youtu.be/Ubf9M0zTY5c)
+* Demo Videos
+  * [Smart assistant](https://youtu.be/2TGSsUWvLk8)
+  * [Search and open a Quick App](https://youtu.be/FfkOgYvw1yM)
+  * [Voice assistant](https://youtu.be/dbLWPKumTW0)
